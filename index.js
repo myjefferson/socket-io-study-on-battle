@@ -4,9 +4,7 @@ const io = new Server({ cors: {
   // origin: 'https://study-on-production.up.railway.app/',
 }});
 
-io.listen(433, () => {
-  console.log('listening on *:443');
-});
+io.listen(process.env.PORT);
 
 //socket.leave - Tira um usuário da sala
 //socket join - coloca o usuário na sala
