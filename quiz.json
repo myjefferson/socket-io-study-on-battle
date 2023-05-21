@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "title": "Onde foi sediada a copa de 2014?",
+        "alternatives": [
+            {"id": 1, "question": "Brasil"},
+            {"id": 2, "question": "Alemanha"},
+            {"id": 3, "question": "Africa do Sul"},
+            {"id": 4, "question": "Atena"}
+        ],
+        "correct": 1 
+    },
+    {
+        "id": 2,
+        "title": "Quem descobriu o Brasil?",
+        "alternatives": [
+            {"id": 1, "question": "Cristovão Colombo"},
+            {"id": 2, "question": "Abraham Lincoln"},
+            {"id": 3, "question": "Pedro Alvares Cabral"},
+            {"id": 4, "question": "Jerolde Antônio"}
+        ],
+        "correct": 3 
+    },
+    {
+        "id": 3,
+        "title": "De onde é a invenção do chuveiro elétrico?",
+        "alternatives": [
+            {"id": 1, "question": "França"},
+            {"id": 2, "question": "Inglaterra"},
+            {"id": 3, "question": "Itália"},
+            {"id": 4, "question": "Brasil"}
+        ],
+        "correct": 4 
+    },
+    {
+        "id": 4,
+        "title": "O que a palavra legend significa em português?",
+        "alternatives": [
+            {"id": 1, "question": "Legenda"},
+            {"id": 2, "question": "Conto"},
+            {"id": 3, "question": "História"},
+            {"id": 4, "question": "Legendário"}
+        ],
+        "correct": 1 
+    }
+]

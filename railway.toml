@@ -1,0 +1,13 @@
+# railway.toml
+
+[env.production]
+# Configurações de ambiente para o ambiente de produção
+NODE_ENV = "production"
+
+[build]
+# Comando de construção para instalar as dependências e compilar o código
+command = "npm install && npm run build"
+
+[start]
+# Comando de inicialização do servidor Node.js
+command = "npm start"
